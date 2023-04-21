@@ -7,20 +7,3 @@ fetch(url)
             console.log(`${person.first} ${person.last} - ${person.topic}`);
         });
     });
-// people.json
-[{
-        "first": "Laurence",
-        "last": "Svekis",
-        "topic": "JavaScript"
-    },
-    {
-        "first": "John",
-        "last": "Smith",
-        "topic": "HTML"
-    },
-    {
-        "first": "Jane",
-        "last": "Doe",
-        "topic": "CSS"
-    }
-]
